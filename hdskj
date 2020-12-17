@@ -1,0 +1,15 @@
+
+[1mFrom:[0m /mnt/c/Users/salis_vym54hj/Development/code/phase1/cartoon-collections/cartoon_collections.rb:19 :
+
+    [1;34m14[0m:   calls << [31m[1;31m"[0m[31m#{name.capitalize}[0m[31m![1;31m"[0m[31m[0m
+    [1;34m15[0m:   
+    [1;34m16[0m: [32mend[0m
+    [1;34m17[0m: 
+    [1;34m18[0m: [32mend[0m
+ => [1;34m19[0m: binding.pry
+    [1;34m20[0m: [32mdef[0m [1;34mlong_planeteer_calls[0m[1;34m# code an argument here[0m
+    [1;34m21[0m:   [1;34m# Your code here[0m
+    [1;34m22[0m: [32mend[0m
+    [1;34m23[0m: 
+    [1;34m24[0m: [32mdef[0m [1;34mfind_the_cheese[0m[1;34m# code an argument here[0m
+
